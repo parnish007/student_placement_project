@@ -131,7 +131,7 @@ The model is evaluated using standard ML metrics such as:
 ### 🔹 Placement Prediction Result
 
 ![Prediction Output](https://github.com/parnish007/student_placement_project/blob/main/frontend/assests/output1.png)
-![Prediction Output]((https://github.com/parnish007/student_placement_project/blob/main/frontend/assests/output2.png))
+![Prediction Output 2 ](https://github.com/parnish007/student_placement_project/blob/main/frontend/assests/output2.png)
 
 
 These screenshots show the **real working application**, not mockups.
@@ -212,5 +212,6 @@ If you found this project useful:
 * ⭐ Star the repository
 * 🍴 Fork it
 * 📢 Share it
+
 
 
