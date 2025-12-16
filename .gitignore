@@ -1,0 +1,29 @@
+# ===== Virtual Environments =====
+venv/
+env/
+.venv/
+ENV/
+Lib/
+Scripts/
+Include/
+
+# ===== Python Cache =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Environment files =====
+.env
+.env.*
+
+# ===== IDE =====
+.vscode/
+.idea/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
