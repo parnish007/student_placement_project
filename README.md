@@ -4,7 +4,7 @@
 
 ### *An End-to-End Machine Learning Problem-Solving Project*
 
-![Banner](frontend/assests/banner.jepg)
+![Banner](https://github.com/parnish007/student_placement_project/blob/main/frontend/assests/banner.jpg)
 
 ---
 
@@ -130,7 +130,9 @@ The model is evaluated using standard ML metrics such as:
 
 ### 🔹 Placement Prediction Result
 
-![Prediction Output](frontend/assets/output2.png)
+![Prediction Output](https://github.com/parnish007/student_placement_project/blob/main/frontend/assests/output1.png)
+![Prediction Output]((https://github.com/parnish007/student_placement_project/blob/main/frontend/assests/output2.png))
+
 
 These screenshots show the **real working application**, not mockups.
 
@@ -210,4 +212,5 @@ If you found this project useful:
 * ⭐ Star the repository
 * 🍴 Fork it
 * 📢 Share it
+
 
