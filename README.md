@@ -116,7 +116,11 @@ The model is evaluated using standard ML metrics such as:
 * Prediction consistency
 * Classification results
 
-📌 Exact performance metrics are shown in the notebook.
+📌 Exact performance metrics are shown in the notebook
+
+which is 
+90% for training data 
+89% for testing data .
 
 ---
 
@@ -197,13 +201,7 @@ This project demonstrates **production-style ML workflow**, not just experimenta
 ✅ Deployed application
 ✅ Explainable notebooks
 
-Perfect for:
 
-* ML / Data Science internships
-* Placement interviews
-* GitHub portfolio
-
----
 
 ## ⭐ Support
 
