@@ -58,10 +58,10 @@ print(f"the model accuracy from testing data is {acc_test}")
 
 # now exporting the model as a pickel file 
 
-# with open('student_placement_pipeline.pkl', 'wb') as file:
-#     pickle.dump(model_pipeline, file)
+ with open('student_placement_pipeline.pkl', 'wb') as file:
+     pickle.dump(model_pipeline, file)
 
-# print("Model trained and saved as 'student_placement_pipeline.pkl'")
+ print("Model trained and saved as 'student_placement_pipeline.pkl'")
 
 
 
